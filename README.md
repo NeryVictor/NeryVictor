@@ -6,7 +6,7 @@
  
   
   <p> Bem vindo ao meu perfil </br> Estudante de dev. web fullstack do Brasil <img src="https://emojis.slackmojis.com/emojis/images/1643515165/11813/flag_brasil.jpg?1643515165" width="32px" height="32px" /> </p>
- <h3> Eterno aprendiz:</h3>
+ <h3> Eterno aprendiz</h3>
   <p>
   <img alt="html5" src="https://emojis.slackmojis.com/emojis/images/1643514112/719/html5.png?1643514112" />
   <img alt="js" src="https://emojis.slackmojis.com/emojis/images/1643514058/151/javascript.png?1643514058" width="32px" height="32px" />
